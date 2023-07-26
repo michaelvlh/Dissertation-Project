@@ -1,0 +1,268 @@
+start tuning
+CHROMAGRAM FEATURES
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.7043182852959079 - train acc: 0.49 - test acc: 0.5
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.7017597975857998 - train acc: 0.5 - test acc: 0.5
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.6980041175115481 - train acc: 0.51 - test acc: 0.51
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.6975600688188935 - train acc: 0.51 - test acc: 0.53
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.6938784321320026 - train acc: 0.52 - test acc: 0.52
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.6927932981913122 - train acc: 0.52 - test acc: 0.53
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.6899245475485866 - train acc: 0.54 - test acc: 0.54
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.6877525066980902 - train acc: 0.54 - test acc: 0.55
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.6862298059032994 - train acc: 0.54 - test acc: 0.55
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.6860291406396947 - train acc: 0.54 - test acc: 0.55
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.6936519600218228 - train acc: 0.52 - test acc: 0.56
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6827341056922406 - train acc: 0.55 - test acc: 0.57
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.6701878751202346 - train acc: 0.57 - test acc: 0.58
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.6628023586221259 - train acc: 0.57 - test acc: 0.59
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.6541146277766339 - train acc: 0.58 - test acc: 0.6
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.6475032912383075 - train acc: 0.6 - test acc: 0.62
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.6399391086814259 - train acc: 0.61 - test acc: 0.64
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.6347838465618725 - train acc: 0.61 - test acc: 0.66
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.6282000837745623 - train acc: 0.62 - test acc: 0.68
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.6241883974801028 - train acc: 0.63 - test acc: 0.68
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.692715958046961 - train acc: 0.52 - test acc: 0.52
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6847096920423434 - train acc: 0.55 - test acc: 0.55
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.675686686180423 - train acc: 0.57 - test acc: 0.56
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.663895271199588 - train acc: 0.58 - test acc: 0.57
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.656672736384801 - train acc: 0.58 - test acc: 0.59
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.6486447028117455 - train acc: 0.59 - test acc: 0.61
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.6414791258982513 - train acc: 0.6 - test acc: 0.62
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.6369016895870931 - train acc: 0.61 - test acc: 0.62
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.6322891374104479 - train acc: 0.62 - test acc: 0.63
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.629202373084519 - train acc: 0.62 - test acc: 0.67
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.6950250430789093 - train acc: 0.51 - test acc: 0.52
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6931772230859813 - train acc: 0.52 - test acc: 0.52
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.6927600263626742 - train acc: 0.52 - test acc: 0.53
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.6910225739278162 - train acc: 0.53 - test acc: 0.53
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.689842605631821 - train acc: 0.53 - test acc: 0.52
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.6884380089891575 - train acc: 0.53 - test acc: 0.52
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.6871869002006292 - train acc: 0.54 - test acc: 0.51
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.6868432333661411 - train acc: 0.53 - test acc: 0.52
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.6840641528632792 - train acc: 0.54 - test acc: 0.53
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.6823602126231676 - train acc: 0.55 - test acc: 0.53
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.6609621879602784 - train acc: 0.57 - test acc: 0.67
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6124696366149397 - train acc: 0.65 - test acc: 0.65
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.5667665177274481 - train acc: 0.7 - test acc: 0.63
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.5435031842932587 - train acc: 0.71 - test acc: 0.68
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.5218073732021307 - train acc: 0.73 - test acc: 0.67
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.5119644754354575 - train acc: 0.74 - test acc: 0.71
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.49857988751149857 - train acc: 0.76 - test acc: 0.7
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.48464798175629176 - train acc: 0.76 - test acc: 0.63
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.47434419051013454 - train acc: 0.77 - test acc: 0.67
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.4635303227957493 - train acc: 0.78 - test acc: 0.69
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.660988470499411 - train acc: 0.58 - test acc: 0.61
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6148132029424325 - train acc: 0.65 - test acc: 0.63
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.5713137728192806 - train acc: 0.7 - test acc: 0.62
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.5436634853648812 - train acc: 0.72 - test acc: 0.68
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.5185156200122751 - train acc: 0.74 - test acc: 0.63
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.5079120493065016 - train acc: 0.75 - test acc: 0.7
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.4950291180583323 - train acc: 0.75 - test acc: 0.72
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.48092376395705505 - train acc: 0.76 - test acc: 0.69
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.4727985550045933 - train acc: 0.77 - test acc: 0.7
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.47100916489484695 - train acc: 0.77 - test acc: 0.69
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.7004617158612879 - train acc: 0.51 - test acc: 0.53
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.685150142862654 - train acc: 0.55 - test acc: 0.55
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.6724953894186033 - train acc: 0.56 - test acc: 0.56
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.6655873956773233 - train acc: 0.56 - test acc: 0.56
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.6580954152214114 - train acc: 0.57 - test acc: 0.57
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.6516720043550285 - train acc: 0.59 - test acc: 0.59
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.6487125314624783 - train acc: 0.58 - test acc: 0.6
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.644179425392632 - train acc: 0.59 - test acc: 0.6
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.6377774758200893 - train acc: 0.6 - test acc: 0.62
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.6352397206947571 - train acc: 0.61 - test acc: 0.64
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.6622104519723513 - train acc: 0.57 - test acc: 0.64
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6092573265764221 - train acc: 0.65 - test acc: 0.67
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.5646590465766784 - train acc: 0.7 - test acc: 0.71
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.5404064546225235 - train acc: 0.72 - test acc: 0.68
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.523042013324684 - train acc: 0.74 - test acc: 0.66
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.508968100869987 - train acc: 0.74 - test acc: 0.71
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.49503702130280786 - train acc: 0.76 - test acc: 0.74
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.48630155024606403 - train acc: 0.76 - test acc: 0.72
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.47815279326489474 - train acc: 0.77 - test acc: 0.77
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.47105038094295065 - train acc: 0.78 - test acc: 0.75
+created dataset
+created dataset
+created dataset
+created dataset
+Data loaders created
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.6957412963611891 - train acc: 0.51 - test acc: 0.48
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.6953539645716261 - train acc: 0.51 - test acc: 0.49
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.6938756081291925 - train acc: 0.52 - test acc: 0.5
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.6936129944377111 - train acc: 0.51 - test acc: 0.5
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.6930932718315518 - train acc: 0.52 - test acc: 0.51
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.6908836723159808 - train acc: 0.52 - test acc: 0.53
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.6895352136648019 - train acc: 0.53 - test acc: 0.52
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.6895695474435485 - train acc: 0.53 - test acc: 0.52
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.6885508733992933 - train acc: 0.53 - test acc: 0.53
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.686710902547112 - train acc: 0.54 - test acc: 0.54
+finish tuning
+created dataset
+created dataset
+created dataset
+created dataset
+created dataset
+created dataset
+[INFO]: Epoch 1 of 10
+[000]: loss: 0.7145434109603658 - train acc: 0.48 - test acc: 0.5
+[INFO]: Epoch 2 of 10
+[001]: loss: 0.709773393238292 - train acc: 0.49 - test acc: 0.5
+[INFO]: Epoch 3 of 10
+[002]: loss: 0.715749640675152 - train acc: 0.47 - test acc: 0.5
+[INFO]: Epoch 4 of 10
+[003]: loss: 0.7141757467213798 - train acc: 0.48 - test acc: 0.5
+[INFO]: Epoch 5 of 10
+[004]: loss: 0.7147944254033706 - train acc: 0.48 - test acc: 0.5
+[INFO]: Epoch 6 of 10
+[005]: loss: 0.708498816279804 - train acc: 0.48 - test acc: 0.5
+[INFO]: Epoch 7 of 10
+[006]: loss: 0.7091986011056339 - train acc: 0.49 - test acc: 0.5
+[INFO]: Epoch 8 of 10
+[007]: loss: 0.7093711337622475 - train acc: 0.48 - test acc: 0.5
+[INFO]: Epoch 9 of 10
+[008]: loss: 0.7100145588902866 - train acc: 0.48 - test acc: 0.5
+[INFO]: Epoch 10 of 10
+[009]: loss: 0.7101821355959949 - train acc: 0.49 - test acc: 0.5
+0.5038924274593064
+starting test on retrained model
+ReTrained Model Loss:  0.7017807119032916
+ReTrained Model Accuracy:  0.4568014705882353
+ReTrained Model F1 Score:  0.6009453072248481
+              precision    recall  f1-score   support
+
+         0.0       0.34      0.10      0.15       544
+         1.0       0.47      0.82      0.60       544
+
+    accuracy                           0.46      1088
+   macro avg       0.41      0.46      0.38      1088
+weighted avg       0.41      0.46      0.38      1088
+

@@ -1,0 +1,11 @@
+Loss = 0.6571290194988251
+ Accuracy = 0.7242647058823529
+ F1 Score = 0.7321428571428571
+              precision    recall  f1-score   support
+
+         0.0       0.74      0.69      0.72       544
+         1.0       0.71      0.75      0.73       544
+
+    accuracy                           0.72      1088
+   macro avg       0.73      0.72      0.72      1088
+weighted avg       0.73      0.72      0.72      1088
